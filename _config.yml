@@ -28,7 +28,7 @@ twitter_username: A20Q
 github_username: Mac20Q
 
 # Build settings
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 # Exclude from processing.
