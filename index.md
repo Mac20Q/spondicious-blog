@@ -5,3 +5,5 @@ This is all about the trials and tribulations of setting this up with Jekyll. Ge
 I'm still a bit of a newbie with GitHub and wondered where the text was that was displayed on the page. Then I remembered to look in the other branches. It is the gh-pages branch supplying the data.
 
 I added a post but it has not showed up yet on the web page. I'm doing this from the GitHub pages offering and I'll have to try out Netlify also to see if I can make it work.
+
+It seems to take a few minutes for the changes to propagate to the site. I'll have to learn patience. Not my strongest attribute.
